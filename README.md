@@ -1,0 +1,13 @@
+# IBM-Project-12885-1659498344
+Retail Store Stock Inventory Analytics
+
+IBM-Project-PNT2022TMID08062
+
+RETAIL STORE STOCK INVENTORY ANALYTICS
+
+
+Team Members : 
+		SUBASH A L
+		NAVEENA M(TL)
+		SHAMINI B
+		SHREYAS M
